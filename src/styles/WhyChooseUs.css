@@ -1,0 +1,53 @@
+.why-choose-us {
+    padding: 40px;
+    background-color: #f5f5f5; /* Light grey background for the section */
+}
+
+.why-choose-us .text {
+    text-align: center; /* Center-align text for the heading */
+    margin-bottom: 30px;
+}
+
+.why-choose-us h2 {
+    color: #1976d2; /* Medium Blue color for the heading */
+    margin-bottom: 15px;
+    font-size: 2rem; /* Consistent font size for headings */
+}
+
+.why-choose-us .features {
+    display: flex;
+    justify-content: space-around; /* Space out the features evenly */
+    flex-wrap: wrap; /* Allow wrapping for smaller screens */
+    gap: 20px; /* Add spacing between features */
+}
+
+.feature {
+    text-align: center; /* Center-align text inside feature blocks */
+    margin: 15px;
+    flex: 1 1 30%; /* Flex item basis and grow/shrink settings */
+    max-width: 300px; /* Maximum width for feature blocks */
+    padding: 20px; /* Padding inside feature blocks */
+    background-color: #ffffff; /* White background for feature blocks */
+    border-radius: 8px; /* Rounded corners for feature blocks */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for better visual appeal */
+}
+
+.feature-icon {
+    width: 50px; /* Fixed width for icons */
+    height: 50px; /* Fixed height for icons */
+    margin-bottom: 10px;
+}
+
+.feature h3 {
+    color: #333; /* Dark grey color for subheadings */
+    margin: 10px 0;
+    font-size: 1.25rem; /* Slightly larger font size for subheadings */
+}
+
+.feature p {
+    color: #666; /* Medium grey color for paragraph text */
+    font-size: 1rem; /* Standard font size for paragraphs */
+    line-height: 1.5; /* Increased line height for readability */
+}
+
+

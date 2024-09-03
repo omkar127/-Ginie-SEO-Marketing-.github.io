@@ -1,0 +1,57 @@
+/* Services Page */
+.services-page {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Full viewport height */
+}
+
+/* Hero Section */
+.services-hero {
+    background-color: #f5f5f5; /* Light background for hero section */
+    padding: 40px 0; /* Adequate padding */
+    text-align: center; /* Center align text */
+}
+
+.services-hero h1 {
+    color: #1976d2; /* Primary blue color for headings */
+    margin-bottom: 15px; /* Space below heading */
+    font-size: 2.5em; /* Larger font size for hero heading */
+}
+
+.services-hero p {
+    color: #333; /* Dark text color for readability */
+    font-size: 1.2em; /* Slightly larger font size for better readability */
+}
+
+/* Services Overview Section */
+.services-overview-section {
+    padding: 40px 20px; /* Padding for section */
+    background-color: #ffffff; /* White background for better contrast */
+    text-align: center; /* Center align text */
+}
+
+/* Call-to-Action Section */
+.cta-section {
+    background-color: #1976d2; /* Primary blue background */
+    color: #fff; /* White text */
+    padding: 40px 20px; /* Padding with responsive adjustments */
+    text-align: center; /* Center align text */
+    border-radius: 8px; /* Rounded corners for visual appeal */
+}
+
+.cta-section .cta-button {
+    background-color: #ff9800; /* Bright orange button */
+    color: #fff; /* White text on button */
+    padding: 12px 25px; /* Increased padding for better click area */
+    text-decoration: none; /* Remove underline */
+    border-radius: 5px; /* Rounded corners */
+    font-size: 1.1em; /* Slightly larger font size for button text */
+    margin-top: 20px; /* Space above button */
+    display: inline-block; /* Ensure button spacing is accurate */
+    transition: background-color 0.3s ease; /* Smooth background color transition */
+}
+
+.cta-section .cta-button:hover {
+    background-color: #e68900; /* Darker orange for hover effect */
+}
+

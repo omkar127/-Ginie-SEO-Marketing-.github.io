@@ -1,0 +1,45 @@
+/* CTASection.css */
+:root {
+    --cta-background-color: #1976d2;
+    --cta-text-color: #020b3d;
+    --cta-description-color: #020b3d;
+    --cta-button-background: #ffffff;
+    --cta-button-text: #1976d2;
+    --cta-button-hover-background: #eeeeee;
+    --cta-button-hover-text: #135a9c;
+}
+
+.cta-section {
+    background-color: var(--cta-background-color);
+    color: var(--cta-text-color);
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.cta-section h2 {
+    color: var(--cta-text-color);
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.cta-section p {
+    color: var(--cta-description-color);
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
+.cta-button {
+    background-color: var(--cta-button-background);
+    color: var(--cta-button-text);
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 1rem;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.cta-button:hover {
+    background-color: var(--cta-button-hover-background);
+    color: var(--cta-button-hover-text);
+}
+

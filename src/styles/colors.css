@@ -1,0 +1,30 @@
+:root {
+    /* Primary Colors */
+    --primary-blue: #1976d2;
+    --secondary-green: #8bc34a;
+    --accent-orange: #ff9800;
+
+    /* Neutral Colors */
+    --white: #ffffff;
+    --light-grey: #f5f5f5;
+    --dark-grey: #333333;
+
+    /* Text Colors */
+    --text-dark: #333333;
+    --text-light: #ffffff;
+}
+
+body {
+    background-color: var(--light-grey);
+    color: var(--text-dark);
+    font-family: Arial, sans-serif;
+}
+
+.header, .footer {
+    background-color: var(--primary-blue);
+    color: var(--text-light);
+}
+
+.cta-section button {
+    background-color: var(--accent-orange);
+}

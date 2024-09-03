@@ -1,0 +1,62 @@
+/* General page styling */
+.contact-page {
+    background-color: #f5f5f5; /* Light background color for the page */
+    font-family: Arial, sans-serif; /* Consistent font across the page */
+}
+
+/* Hero section styling */
+.contact-hero {
+    background-color: #ffffff; /* White background for the hero section */
+    padding: 60px 20px; /* Increased padding for better spacing */
+    text-align: center; /* Centered text alignment */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Added subtle shadow for depth */
+}
+
+.contact-hero h1 {
+    font-size: 2.5rem;
+    color: #1976d2; /* Primary color for heading */
+    margin-bottom: 15px;
+}
+
+.contact-hero p {
+    font-size: 1.2rem;
+    color: #555; /* Slightly lighter grey for better readability */
+}
+
+/* Form section styling */
+.contact-form-section {
+    background-color: #ffffff; /* White background for the form section */
+    padding: 60px 20px; /* Increased padding for consistency with hero section */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+.contact-form-section h2 {
+    font-size: 2rem;
+    color: #1976d2; /* Primary color for headings */
+    margin-bottom: 25px;
+    text-align: center; /* Centered text alignment */
+}
+
+/* Container styling for responsiveness */
+.contact-page .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Responsive design adjustments */
+@media (max-width: 768px) {
+    .contact-hero h1 {
+        font-size: 2rem;
+    }
+
+    .contact-hero p {
+        font-size: 1rem;
+    }
+
+    .contact-form-section h2 {
+        font-size: 1.5rem;
+    }
+}
+
+
