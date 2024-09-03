@@ -111,6 +111,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any inquiries or feedback, please contact me:
 
 - **Name:** Your Name
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **GitHub:** [https://github.com/your-username](https://github.com/your-username)
-- **Website:** [https://your-username.github.io/your-repository-name](https://your-username.github.io/your-repository-name)
+- **Email:** [omkaranth82@gmail.com](mailto:omkaranth82@gmail.com)
+- **GitHub:** [https://github.com/omkar127](https://github.com/omkar127)
+- **Website:** [https://omkar127.github.io/Genie SEO Marketing](https://your-username.github.io/your-repository-name)
