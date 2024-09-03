@@ -1,0 +1,98 @@
+/* General styling for the pricing section */
+.pricing {
+    padding: 40px 20px;
+    background-color: #f5f5f5;
+}
+
+/* Pricing Table Layout */
+.pricing-table {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+/* Individual Pricing Plan */
+.pricing-plan {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+    width: 300px;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.pricing-plan:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* Popular Plan Highlight */
+.pricing-plan.popular {
+    border: 2px solid #1976d2;
+    background-color: #e8f0fe; /* Slightly lighter background for popular plan */
+}
+
+/* Price Styling */
+.price {
+    font-size: 2rem; /* Adjusted for better readability */
+    font-weight: bold;
+    color: #333;
+    margin: 10px 0;
+}
+
+/* Features List */
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 20px 0; /* Added margin for spacing */
+}
+
+ul li {
+    margin: 10px 0;
+    font-size: 1rem; /* Consistent font size */
+    color: #666;
+}
+
+/* Primary Button */
+.btn-primary {
+    display: inline-block;
+    padding: 12px 24px; /* Increased padding for a more prominent button */
+    background-color: #1976d2;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 1rem; /* Consistent font size */
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.btn-primary:hover {
+    background-color: #135a9c;
+    transform: scale(1.05); /* Slightly enlarge button on hover */
+}
+
+/* Testimonials Section */
+.testimonials {
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.testimonials h3 {
+    font-size: 1.75rem; /* Slightly larger for emphasis */
+    margin-bottom: 20px;
+    color: #1976d2; /* Consistent with other headings */
+}
+
+.testimonials p {
+    font-size: 1rem;
+    color: #333;
+}
+
+
+
+
