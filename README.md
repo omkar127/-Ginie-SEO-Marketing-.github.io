@@ -1,6 +1,6 @@
 # My Static Website
 
-Welcome to My Static Website! This project is a simple static site that showcases my work and provides information about my services. The site is hosted for free on GitHub Pages.
+Welcome to Genie! This project is a simple static site that showcases my work and provides information about my services. The site is hosted for free on GitHub Pages.
 
 ## Table of Contents
 
@@ -32,13 +32,13 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/your-repository-name.git
+    git clone https://github.com/omkar127/Genie SEO Marketing.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd your-repository-name
+    cd Genie SEO Marketing
     ```
 
 3. **If you have any dependencies (for local development), install them:**
@@ -74,7 +74,7 @@ You can open the `index.html` file in your browser to view the website locally. 
 2. **GitHub Pages will automatically deploy your site. Visit the following URL:**
 
     ```
-    https://your-username.github.io/your-repository-name
+    https://omkar127.github.io/Genie SEO Marketing/
     ```
 
 ## Contributing
@@ -110,7 +110,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any inquiries or feedback, please contact me:
 
-- **Name:** Your Name
+- **Name:** Om Karanth
 - **Email:** [omkaranth82@gmail.com](mailto:omkaranth82@gmail.com)
 - **GitHub:** [https://github.com/omkar127](https://github.com/omkar127)
 - **Website:** [https://omkar127.github.io/Genie SEO Marketing](https://your-username.github.io/your-repository-name)
